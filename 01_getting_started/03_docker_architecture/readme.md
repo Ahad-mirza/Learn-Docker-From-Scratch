@@ -1,7 +1,5 @@
 # 🐳 Docker Architecture
 
-![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
-
 ## 📖 Table of Contents
 1. [📌 Introduction](#-introduction)
 2. [⚙️ How Docker Works](#-how-docker-works)

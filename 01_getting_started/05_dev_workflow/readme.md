@@ -1,7 +1,5 @@
 # 🐳 Docker Development Workflow
 
-![Docker Logo](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png)
-
 ## 📖 Table of Contents
 1. [📌 Introduction](#-introduction)
 2. [📝 Understanding the Workflow](#-understanding-the-workflow)
